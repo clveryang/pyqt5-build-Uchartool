@@ -7,7 +7,6 @@ My python environment:
 
 . pyqt5
 
-
 . pyqt5-tools
 
 . pyserial
@@ -23,3 +22,6 @@ Use following command package programing
 pyinstaller -F uchar.py -w
 
 
+Showing:
+
+![](show.png)
